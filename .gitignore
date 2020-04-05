@@ -5,3 +5,5 @@
 /Proyecto/NetCoreConfVirtual/.vs/NetCoreConfVirtual
 /Proyecto/NetCoreConfVirtual/NetCoreConfVirtual.API.Avengers/bin/Debug/netcoreapp3.1
 /Proyecto/NetCoreConfVirtual/NetCoreConfVirtual.API.Avengers/obj
+Proyecto/front/my-app/package-lock.json
+Proyecto/front/my-app/yarn.lock
