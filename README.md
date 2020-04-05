@@ -1,4 +1,4 @@
-# netcoreconf-virtual-2020
+# NetCoreConf Virtual 04 de Abril de 2020
 Sesión impartida en la NetCoreConf Virtual que se celebro virutalmente  el 04 de Abril en la que hable sobre Autenticación y autorización en .NET Core
 
 En el siguiente enlace de Youtube podeis ver la sesión :
